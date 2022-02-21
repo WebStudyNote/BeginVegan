@@ -35,7 +35,7 @@ DB RED
 구현 기능 
 ===============
 ## 상품상세페이지
-![3](https://user-images.githubusercontent.com/85299367/145407987-5378d612-0945-4ab6-867d-fa590990c906.PNG)
+![상품상세페이지](https://user-images.githubusercontent.com/69906640/154933073-a915f80c-c7d3-4838-bb7e-700964839f0a.PNG)
 ## 상품관리페이지
 ![상품관리페이지](https://user-images.githubusercontent.com/69906640/154932716-349898a6-d6b7-4766-b129-feca41332e01.PNG)
 ## 상품관리페이지
