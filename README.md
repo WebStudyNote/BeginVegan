@@ -36,4 +36,6 @@ DB RED
 ===============
 ## 상품상세페이지
 ![3](https://user-images.githubusercontent.com/85299367/145407987-5378d612-0945-4ab6-867d-fa590990c906.PNG)
+## 상품관리페이지
+![상품관리페이지](https://user-images.githubusercontent.com/69906640/154932161-31c453ce-ba9c-473c-a151-db0c587f439f.PNG)
 
