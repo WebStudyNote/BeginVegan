@@ -38,4 +38,6 @@ DB RED
 ![3](https://user-images.githubusercontent.com/85299367/145407987-5378d612-0945-4ab6-867d-fa590990c906.PNG)
 ## 상품관리페이지
 ![상품관리페이지](https://user-images.githubusercontent.com/69906640/154932161-31c453ce-ba9c-473c-a151-db0c587f439f.PNG)
+## 상품관리페이지
+![상품등록페이지](https://user-images.githubusercontent.com/69906640/154932578-12d8ccbe-5892-401a-9f1e-42c8135ccf49.PNG)
 
