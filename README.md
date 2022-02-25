@@ -26,7 +26,6 @@ Database : Oracle<br/>
 Development Tool : Eclipse, sql Developer<br/>
 Development Language :  JAVA , HTML5, CSS3, JavaScript, jQuery, SQL, JSP, Servlet<br/>
 Team Coop : Github, ERDCloud, kakaoOven<br/>
-Open API : Kakao Rest API, iamport api<br/>
 DB RED
 ===================
 ![ERD](https://user-images.githubusercontent.com/85299367/145320573-71f18416-9991-4644-a212-f6cc7092c25d.PNG)
